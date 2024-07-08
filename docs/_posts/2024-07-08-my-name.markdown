@@ -1,5 +1,6 @@
 ---
 layout: post
 title: 'The meaning of my name'
+permalink: /bow_before_me
 ---
 I managed to join social media with the id ft_pav
